@@ -1,4 +1,3 @@
 # setup-repo
 
-## ts + eslint(airbnb) + prettier + husky 
-
+## ts + eslint(airbnb) + prettier + husky

@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aryaman1706/fireflyjs-core.git"
+    "url": "git+https://github.com/Aryaman1706/setup-repo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aryaman1706/fireflyjs-core/issues"
+    "url": "https://github.com/Aryaman1706/setup-repo.git/issues"
   },
-  "homepage": "https://github.com/Aryaman1706/fireflyjs-core#readme",
+  "homepage": "https://github.com/Aryaman1706/setup-repo.git#readme",
   "devDependencies": {
     "@types/node": "^16.3.1",
     "@typescript-eslint/eslint-plugin": "^4.28.3",
